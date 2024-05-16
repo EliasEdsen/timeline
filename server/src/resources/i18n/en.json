@@ -1,0 +1,58 @@
+{
+  "Notifications": {
+    "Notification": "en_Уведомление",
+    "1": "en_Данный email уже занят",
+    "2": "en_Пользователя с такими данными на существует",
+    "3": "en_Необходимо залогиниться"
+  },
+  "User": {
+    "State": "en_Данные"
+  },
+  "Common": {
+    "Description": "en_Описание",
+    "Delete": "en_Удалить",
+    "Reset": "en_Сбросить",
+    "Submit": "en_Отправить",
+    "Change": "en_Изменить"
+  },
+  "App": {
+    "Home": "en_Домой",
+    "Profile": "en_Профиль",
+    "Page_not_found": "en_Page Not Found"
+  },
+  "Points": {
+    "Date": "en_Дата события",
+    "Time_has": "en_Время известно",
+    "All": "en_Все точки",
+    "Create": "en_Добавить точку события",
+    "Create_10": "en_Создать 10 точек",
+    "Remove_all": "en_Удалить все точки",
+    "Link": "en_Ссылка на источник",
+    "Edit": "en_Редактировать"
+  },
+  "Tags": {
+    "Tags": "en_Теги",
+    "Add_tag": "en_Добавить тег",
+    "Merge": "en_Объединение тегов",
+    "New_name": "en_Новое название",
+    "Merge_to": "en_Объединить в"
+  },
+  "Login": {
+    "Registration": "en_Регистрация",
+    "Email": "en_Введите Ваш email",
+    "Password_come_up": "en_Придумайте пароль",
+    "Register": "en_Зарегистрироваться",
+    "Registered": "en_Уже зарегистрирован",
+    "Authorization": "en_Авторизация",
+    "Password_enter": "en_Введите Ваш пароль",
+    "Name": "en_Имя",
+    "Enter": "en_Войти",
+    "Language": "en_Язык",
+    "Logout": "en_Выйти"
+  },
+  "Profile": {
+    "Change": "en_Изменить данные",
+    "MyLanguages": "Мои языки",
+    "OtherLanguages": "Добавить языки"
+  }
+}

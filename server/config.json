@@ -1,0 +1,27 @@
+{
+  "server": {
+    "port": 3001
+  },
+
+  "workers": "auto",
+
+  "db": {
+    "user": "eliasedsen",
+    "password": "JKL678cvbn",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "database": "timeline"
+  },
+
+  "rd": {
+    "host": "127.0.0.1",
+    "port": 6379,
+    "database": 8
+  },
+
+  "admins_id": ["*"],
+
+  "is_development": true,
+  "is_test": false,
+  "is_production": false
+}
